@@ -1,9 +1,9 @@
 # Basic
 title: Chen's Blog
 subtitle: 事在人为 落子不悔
-welcome_message: ObjC 中国与 objc.io 合作最新作品<a href="https://objccn.io/products/" target="_blank">《函数式 Swift》,《Core Data》,《Swift 进阶》及《集合类型优化》已经发布</a>，<a href="https://www.boxueio.com/register/ec84c3dd183b0acc820d5eae474d499d">泊学网正在开展订阅赠书活动，也欢迎前往了解</a>
+#welcome_message: ObjC 中国与 objc.io 合作最新作品<a href="https://objccn.io/products/" target="_blank">《函数式 Swift》,《Core Data》,《Swift 进阶》及《集合类型优化》已经发布</a>，<a href="https://www.boxueio.com/register/ec84c3dd183b0acc820d5eae474d499d">泊学网正在开展订阅赠书活动，也欢迎前往了解</a>
 description: 嗨，我是 陈 光，一名来自中国的 iOS 开发者，正在修行，躬行慎思以求真。
-creator: <a href="http://onev.cat">@onevcat</a>
+#creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://onevcat.com"
 
