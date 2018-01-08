@@ -24,7 +24,6 @@ nav:
     - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
     - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
     - {title: 关于, description: 了解更多关于我, url: 'http://about.onevcat.com/'}
-    - {title: 订阅, description: 邮件订阅本站, url: '//store.objccn.io/subscribe'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -39,8 +38,6 @@ comment:
 social:
     weibo: onevcat
     github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
     mail: onev@onevcat.com
 
 # Google Analytics
