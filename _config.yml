@@ -19,11 +19,11 @@ blog_button:
     title: 博客
     description: 访问博客
 
-nav:
-    - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
-    - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
-    - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
-    - {title: 关于, description: 了解更多关于我, url: 'http://about.onevcat.com/'}
+# nav:
+#     - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
+#     - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
+#     - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
+#     - {title: 关于, description: 了解更多关于我, url: 'http://about.onevcat.com/'}
 
 # Pagination
 gems: [jekyll-paginate]
