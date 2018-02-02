@@ -17,7 +17,7 @@ tags: 呓语集
 
 ![image1](https://raw.githubusercontent.com/ChenGuangChina/ChenGuangChina.github.io/master/assets/images/WechatIMG264.jpeg)
 
-![image2](https://github.com/ChenGuangChina/ChenGuangChina.github.io/blob/master/assets/images/WechatIMG265.jpeg)
+![image2](https://raw.githubusercontent.com/ChenGuangChina/ChenGuangChina.github.io/master/assets/images/WechatIMG265.jpeg)
 
 ![image3](https://raw.githubusercontent.com/ChenGuangChina/ChenGuangChina.github.io/master/assets/images/WechatIMG263.jpeg)
 
