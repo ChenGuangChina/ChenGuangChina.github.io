@@ -5,7 +5,7 @@ subtitle: 事在人为 落子不悔
 description: 嗨，我是 陈 光，一名来自中国的 iOS 开发者，正在修行，躬行慎思以求真。
 #creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://onevcat.com"
+# url: "http://onevcat.com"
 
 permalink: /:year/:month/:title/
 
@@ -15,9 +15,9 @@ highlighter: rouge
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: slate
 
-blog_button:
-    title: 博客
-    description: 访问博客
+# blog_button:
+#     title: 博客
+#     description: 访问博客
 
 # nav:
 #     - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
@@ -31,16 +31,16 @@ paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
-comment:
-    disqus: onevcat
+# comment:
+#     disqus: onevcat
     # duoshuo:
 # Social
-social:
-    weibo: onevcat
-    github: onevcat
-    mail: onev@onevcat.com
+# social:
+    # weibo: onevcat
+    # github: onevcat
+    # mail: onev@onevcat.com
 
 # Google Analytics
-ga:
-    id: UA-25719337-1
-    host: onevcat.com
+# ga:
+#     id: UA-25719337-1
+#     host: onevcat.com
