@@ -15,9 +15,9 @@ highlighter: rouge
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: slate
 
-# blog_button:
-#     title: 博客
-#     description: 访问博客
+blog_button:
+    title: 博客
+    description: 访问博客
 
 # nav:
 #     - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
